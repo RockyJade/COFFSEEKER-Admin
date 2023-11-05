@@ -1,0 +1,156 @@
+:root{
+   --milky:#988966;
+}
+
+.breadcrumb-item+.breadcrumb-item::before {
+   content: none;
+}
+
+
+.index-logo{
+   max-height:600px ;
+}
+
+.breadcrumb{
+   background: rgba(255, 255, 255, 0);
+}
+
+.breadcrumb a{
+   text-decoration: none;
+   color: #6e707e;  
+}
+
+.btn-warning{
+   color: black;
+}
+
+.bg-warning{
+   color: black;
+}
+
+.bg-warning:hover{
+   color: white;
+}
+
+/* font-awesome */
+
+.sideicon {
+   width: 17px;
+   text-align: center;
+}
+
+/* Nav Sidebar */
+
+.bg-milky{
+    background: var(--milky);
+ }
+
+ .logo{
+     width: 100%;
+ }
+
+/* 註冊頁面 */
+ .sign-up{
+    color: white;
+ }
+
+ .sign-up:hover{
+    transition: .1s;
+    background: #552a16;
+    color: white;
+  }
+
+  .gender-select{
+   display: block;
+    width: 100%;
+    height: 50px;
+    padding: 0.375rem 0.75rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #6e707e;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #d1d3e2;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+   font-size: 0.8rem;
+   border-radius: 10rem;
+ }
+
+/* 會員清單與搜尋頁 */
+/* .pages-up{
+   transform: translateX(-55px);
+} */
+
+
+
+ /* 會員詳細資料 */
+
+.icon-btn{
+   transform: translateX(-50px);
+}
+
+ .user-icon-box{
+   max-width: 400px;
+   max-height: 400px;
+   border-radius: 50%;
+   margin: auto;
+ }
+
+ .user-icon-box img{
+   max-width: 100%;
+   object-fit: cover;
+ }
+
+ .back-user-list{
+   text-decoration: none;
+ }
+
+ .back-user-list:active , .back-user-list:visited , .back-user-list:hover{
+   text-decoration: none;
+   color: #6e707e;   
+}
+
+.icon-select{
+   width: 500px;
+   position: relative;
+   top: -20px;
+}
+
+.icon-upload{
+   /* width: 500px; */
+   position: relative;
+   top: -20px;
+}
+
+/* Order */
+
+.order-box{
+   margin:0 auto;
+}
+
+/* product */
+.totalpage{
+   display: flex;
+   justify-content: right;
+}
+.product_description{
+   list-style-type: none;
+   font-size: 13px;
+   padding: 0;
+}
+.product_name{
+   background: rgb(238, 238, 238);
+   /* color: white; */
+}
+.fa-circle-plus{
+   font-size: 30px;
+   color: green;
+   
+}
+.img-prev{
+   height: 200px;
+   width: 200px;
+   border: 1px solid lightgray;
+   margin-left: 20px;
+}
+
