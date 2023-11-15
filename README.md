@@ -22,4 +22,4 @@
 - [Coffseeker-Admin/course_list.php](https://github.com/RockyJade/COFFSEEKER-Admin/blob/fe95f13464517db4e239d8ed853939a25f97260f/Coffseeker-Admin/course_list.php)
 - [Coffseeker-Admin/action/course](https://github.com/RockyJade/COFFSEEKER-Admin/tree/3015e0e2f96fa5922ffe2ef0670b24db145a1ad2/Coffseeker-Admin/action/course)
 
-＊免責聲明: 本專題僅供資展國際期中專題使用， 不得使用於任何商業用途，如有侵權敬請告知＊
+＊免責聲明：本專題僅供資展國際期中專題使用， 不得使用於任何商業用途，如有侵權敬請告知＊
